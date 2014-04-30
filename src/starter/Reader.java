@@ -35,15 +35,15 @@ public class Reader {
             switch (ex){
                 case EXE:
                     exercise = new Exercise();
-                    exercise.setQuestion(a.substring(1));
+                    exercise.setQuestion(a.substring(1).replace('&', '\n'));
                     exercises.add(exercise);
                     break;
                 case CH:
-                    exercise.addChoice(a);
+                    exercise.addChoice(a.replace('&', '\n'));
                     break;
                 case ANS:
-                    exercise.addChoice(a.substring(1));
-                    exercise.setAnswer(a.substring(1));
+                    exercise.addChoice(a.substring(1).replace('&', '\n'));
+                    exercise.setAnswer(a.substring(1).replace('&', '\n'));
                     break;
             }
         }

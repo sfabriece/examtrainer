@@ -10,7 +10,7 @@ import java.awt.event.KeyListener;
  * Created by helifab on 29.04.2014.
  */
 public class MainPanel extends JPanel implements KeyListener{
-    private JLabel question;
+    private JTextArea question;
     JLabel answer;
     private JTextArea choice;
     private Font font;
@@ -18,12 +18,16 @@ public class MainPanel extends JPanel implements KeyListener{
     private BorderLayout bl;
     private JButton nextButton;
     private boolean correct = false;
+    private JButton correctButton;
+
     public MainPanel(){
         setSize(500, 500);
         bl = new BorderLayout();
         setLayout(bl);
         font = new Font("Serif", Font.BOLD, 30);
-        question = new JLabel("", JLabel.CENTER);
+        question = new JTextArea();
+        question.setEditable(false);
+        question.setFocusable(false);
         question.setFont(font);
         question.setForeground(Color.BLUE);
         add(question, BorderLayout.NORTH);
@@ -39,7 +43,7 @@ public class MainPanel extends JPanel implements KeyListener{
         JPanel bottom = new JPanel();
         center.add(top);
         center.add(bottom);
-        JButton correctButton = new JButton("Correct");
+        correctButton = new JButton("Correct");
         correctButton.setFocusable(false);
         correctButton.addActionListener((ActionEvent e)->{
             correct = true;
@@ -123,6 +127,10 @@ public class MainPanel extends JPanel implements KeyListener{
     @Override
     public void keyPressed(KeyEvent e) {
         if (e.getKeyCode() == KeyEvent.VK_SPACE){
+            nextButton.doClick();
+        }
+        if (e.getKeyCode() == KeyEvent.VK_C){
+            correctButton.doClick();
             nextButton.doClick();
         }
     }

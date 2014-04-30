@@ -1,8 +1,135 @@
-#test1
-a
--b
-c
-#test2
-d
-e
--f
+#A1. Hva er markedets viktigste oppgave?
+A.	Skape arbeidsplasser
+-B.	Koordinere tilbud og etterspørsel
+C.	Gi gode muligheter for bedrifter til å tjene penger
+
+#A2. Blandingsøkonomi definerer
+-A.	Et marked der fri konkurranse begrenses av offentlige reguleringer
+B.	En bedrifts investeringsstrategi
+C.	En økonomi som innebærer både industri-, handels- og tjenesteytende bedrifter
+
+#A3. Bedrifter kan i hovedsak skape verdier ved å
+-A.	Være kostnadsleder eller differensiere produktene sine
+B.	Selge produkter som har positivt dekningsbidrag (DB)
+C.	Kun akseptere investeringer som har positiv netto nåverdi (NNV)
+
+#A4. Priselastisiteten definerer
+A.	Forholdet mellom forbrukerens pris og bedriftens innkjøpspris
+-B.	Forholdet mellom relativ mengdeendring og relativ prisendring
+C.	Bedriftens mulighet til å påvirke prisen i markedet
+
+#A5. Bør en bedrift selge et produkt dersom prisen det får er høyere &enn den variable enhetskostnaden (VEK), men lavere enn den totale enhetskostnaden (TEK)?
+A.	Ja, bedriften vil tjene penger når pris > VEK.
+B.	Nei, bedriften vil tape penger når pris < TEK.
+-C.	Ja, men kun på kort sikt.
+
+#A6. Etter hvert som antall tilvirkede enheter øker i det relevante kapasitetsintervallet, vil
+A.	de variable kostnadene bli konstante
+-B.	de faste enhetskostnadene bli redusert
+C.	de faste kostnadene gradvis stige
+
+#A7. Avskrivninger har til hensikt å
+-A.	Fordele anskaffelseskostnaden over tid
+B.	Redusere skattekostnaden for bedriften
+C.	Gjøre innkjøpene billigere for bedriften
+
+#A8. En balanse viser
+A.	Bedriftens evne til å betjene renter og avdrag
+B.	Bedriftens resultat og eventuelt overskudd
+-C.	Bedriftens eiendeler og hvordan eiendelen er finansiert
+
+#A9. Forskjellen på anleggsmidler og omløpsmidler er
+A.	Eiendelens kostnad
+-B.	Eiendelens levetid
+C.	Eiendelens lønnsomhet
+
+#A10. En bedrifts likviditet betegner
+-A.	Bedriftens evne til å dekke løpende betalingsforpliktelser
+B.	Bedriftens lønnsomhet i en gitt periode
+C.	Bedriftens kontantstrøm
+
+#A11. Et firma har 40 000 i omløpsmidler og en ubenyttet kassakreditt på 20 000. &Den kortsiktige gjelden er på 80 000. Likviditetsgrad 1 er
+A.	0,40
+-B.	0,75
+C.	1,33
+
+#A12. Dersom du beregner likviditetsgrad 2 for bedriften i oppgave A12, vil den være
+A.	Høyere enn likviditetsgrad 1?
+B.	Samme som likviditetsgrad 1?
+-C.	Lavere enn likviditetsgrad 1?
+
+#A13. Bedriftens likviditet kan forbedres ved å
+-A.	Redusere kundenes kredittid
+B.	Redusere kredittiden hos leverandørene
+C.	Redusere varelagerets omløpshastighet
+
+#A14. Er grenseinntekten for en bedrift i et marked med fri konkurranse en konstant størrelse?
+A.	Nei
+-B.	Ja
+C.	Det avhenger av formen på tilbudskurven
+#A15. Hvilke krav bør fornuftige målsetninger oppfylle?
+A.	De bør stå i et naturlig forhold til tidligere målsetninger
+B.	De bør være lette å nå
+-C.	De bør kunne tallfestes og tidfestes
+
+#A16. En bedrifts totale kostnader er gitt ved TK = 400 + 20x + 0,5x2. &Bedriften er pristaker og selger produktet til 50,- pr enhet. &Hva blir resultatet ved øvre dekningspunkt?
+A.	Kr. 50
+B.	Kr. 1 500
+-C.	Kr. 0
+
+#A17. En virksomhet har en nullpunktsomsetning på kr 1 000 000. &Virkelig omsetning utgjør kr 2 500 000. &Dekningsgraden er 40%. Hvor stort er overskuddet?
+A.	Kr. 1 000 000
+-B.	Kr. 600 000
+C.	Kr. 400 000
+
+#A18. Bedriften Pulpit Co. har hatt utgifter til varer på 1 000 000 i 2011. &Varebeholdningen pr 31.12.2010 var 150 000, og ved utgangen av 2011 var den på 220 000. &Hva var bedriftens varekostnad i 2011?
+-A.	930 000
+B.	1 000 000
+C.	1 070 000
+
+#A22. Indirekte tilvirkningskostnader inkluderer
+A.	alle salgs/administrative kostnader
+-B.	alle tilvirkningskostnader unntatt direkte lønn og direkte materialer
+C.	alle direkte materialer, direkte lønn og administrative kostnader
+
+#A23. Du selger to konkurrerende produkter. Produkt A selges for kr 230, ekskl. &mva. per kg med en bruttofortjeneste på 40%. Produkt A er et meget kjent merkenavn. &Produkt B har en bruttofortjeneste på 50% og selges for kr 168 per kg, ekskl. &mva. Begge produkter har tilnærmet lik kvalitet. &Når en kunde kommer inn for å kjøpe produktet, etter hvilke kriterier vil du prioritere &dersom du vil prøve å selge det produktet som gir deg størst lønnsomhet?
+A.	Bruttofortjeneste i % pr kg
+-B.	Bruttofortjeneste i kr pr salgsvolum
+C.	Bruttofortjeneste i % pr salgskrone
+
+#A24. Den matematiske ligningen som settes opp ved produktvalg utrykker bedriftens mål i form av
+A.	Maksimalt salg i antall enheter
+-B.	Maksimalt dekningsbidrag
+C.	Maksimalt salg i kroner
+
+ 
+#A25. Den optimale lagerstørrelse påvirkes av følgende faktorer, unntatt
+A.	innkjøpskostnaden per enhet
+-B.	nåværende lagerstørrelse
+C.	ledetiden
+
+#A26. Hva er formålet med optimal bestillingsmengde?
+A.	Å minimere innkjøpskostnaden eller lagringskostnaden og maksimere lagerets omløpshastighet.
+-B.	Å minimere både den totale innkjøpskostnaden og lagringskostnaden.
+C.	Å minimere innkjøpskostnaden eller lagringskostnader, avhengig av hvem som er størst.
+
+#A27. Utgangspunktet for bedriftens øvrige delbudsjetter og hovedbudsjetter er
+-A.	salgsbudsjettet
+B.	investeringsbudsjettet
+C.	produksjonsbudsjettet
+
+#A28. En virksomhet selger varer for kr 40 000. &Bedriften har kalkulert med 60% avanse. &Hva er bedriftens inntaktskost for disse varene?
+A.	20 000
+B.	24 000
+-C.	25 000
+
+#A29Informasjon om Techy AS skal brukes i oppgave A29 og A30. &Techy AS produserer tilbehør til iPad, et marked der konkurransen er stor. &Deres løsning TxtIt selger 10 000 enheter i året til 150 kroner pr stykk, &og har et driftsresultat på 10% av omsetningen. &For å kapre nye markedsandeler og øke salget til 20 000 enheter,&vil ledelsen sette ned prisen med 20% på deres nye versjon iTxt. &Ledelsen har som mål at selskapet fremdeles skal ha et driftsresultat på 10% av omsetningen.&Hvor stort må driftsresultatet være for Techy AS for at &ledelsen skal få oppfylt sitt mål?
+A.	300 000
+-B.	240 000
+C.	150 000
+
+#A30. Informasjon om Techy AS skal brukes i oppgave A29 og A30. &Techy AS produserer tilbehør til iPad, et marked der konkurransen er stor. &Deres løsning TxtIt selger 10 000 enheter i året til 150 kroner pr stykk, &og har et driftsresultat på 10% av omsetningen. &For å kapre nye markedsandeler og øke salget til 20 000 enheter, &vil ledelsen sette ned prisen med 20% på deres nye versjon iTxt. &Ledelsen har som mål at selskapet fremdeles skal ha et driftsresultat på 10% av omsetningen. &Hva blir målkostnaden per enhet for iTxt?
+-A.	108
+B.	100
+C.	90
+
